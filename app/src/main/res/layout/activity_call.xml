@@ -59,7 +59,7 @@
             android:text="Press and hold to loop"
             android:layout_width="match_parent"
             android:visibility="gone"
-            android:id="@+id/recordButton"
+            android:id="@+id/recordBtn"
             android:layout_height="wrap_content" />
 
         <LinearLayout android:orientation="horizontal"
