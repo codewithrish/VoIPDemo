@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268763803678",
+    "firebase_url": "https://orchestra-ef88d.firebaseio.com",
+    "project_id": "orchestra-ef88d",
+    "storage_bucket": "orchestra-ef88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268763803678:android:5ab71949b3689789",
+        "android_client_info": {
+          "package_name": "strokeapp.pgimer.com.voipdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268763803678-n53l8bg25gi0rfvfv1tdf7leugi5knql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSwBCVTIUkAST8mefOqqrErpXYeB1Ybs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
